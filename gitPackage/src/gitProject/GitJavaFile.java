@@ -11,7 +11,7 @@ public class GitJavaFile {
             // condition for nonprime number
             if(num % i == 0)
             {
-                 = true;
+                flag = true;
                 break;
             }
         }
